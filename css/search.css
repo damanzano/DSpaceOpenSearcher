@@ -1,0 +1,37 @@
+/* 
+    Document   : search
+    Created on : 12-dic-2011, 10:31:39
+    Author     : David Andrés Manzano Herrera
+    Description:
+        Sstylesheet for the Dspace open search requester application.
+*/
+
+root { 
+    display: block;
+    font-size: 10px;
+}
+body{font-size: 10px;}
+img {margin: 3px;}
+#wrapper{display: block; width: 100%;}
+#header, #widecontent, #content-header{display: block; width: 100%; text-align: center; overflow: hidden;}
+#logos{width: 35%; float: left;}
+/*#logo_dpt{width: 47%}
+#logo_icesi{width: 47%}*/
+#searcher{width: 100%; text-align: center;}
+input#query{font-size: 1.1em;}
+#appresults, #apprecord {display: block; width: 100%; float: left; text-align: center; margin: 10px 0;}
+#dspaceresults{width: 100%;}
+#dspaceresults th, #dspaceresults td{text-align: left;}
+#dspaceresults td{text-align: left}
+#dspaceresults td + td {text-align: left}
+#dspaceresults td + td + td {text-align: left}
+#dspaceresults td + td + td + td {text-align: right;}
+.results-table{width: 100%}
+.ui-widget-content a.app_navlink_active{color: #ff0000; font-weight: bolder;}
+.nav-wrapper{width: 100%;}
+.navigation{width: 100%;}
+#record-metadata{width: 100%;}
+#record-metadata tr th{text-align: right; font-weight: bolder; vertical-align: top;}
+#record-metadata tr td{padding-left: 5px;  text-align: justify;}
+.back{position: relative; left: 0; float: left; margin: 0.7em;}
+#footer{width: 100%; display: block; overflow: hidden; text-align: center;}

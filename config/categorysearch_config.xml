@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imported_structure>
+    <community identifier="10906/5698">
+        <name>Archivo del Patrimonio Fotográfico y Fílmico del Valle del Cauca</name>
+        <description></description>
+        <intro></intro>
+        <copyright></copyright>
+        <sidebar></sidebar>
+        <community identifier="10906/5699">
+            <name>Fondo Archivo del Patrimonio Fotográfico y Fílmico del Valle del Cauca</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <community identifier="10906/5700">
+                <name>Lo Cotidiano</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5701">
+                    <name>APFFVC - Amor - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5702">
+                    <name>APFFVC - Comidas y Bebidas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5703">
+                    <name>APFFVC - Costumbres - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5704">
+                    <name>APFFVC - Fotos Familiares - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5705">
+                    <name>APFFVC - Interiores - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5706">
+                    <name>APFFVC - Juegos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5707">
+                    <name>APFFVC - Moda - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5708">
+                    <name>APFFVC - Oficios - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5709">
+                    <name>APFFVC - Recreación y Paseo - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5710">
+                <name>La Educación y el Deporte</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5711">
+                    <name>APFFVC - Deportes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5712">
+                    <name>APFFVC - Docentes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5713">
+                    <name>APFFVC - Escenarios - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5714">
+                    <name>APFFVC - Estudiantes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5715">
+                    <name>APFFVC - Eventos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5716">
+                    <name>APFFVC - Planteles - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5717">
+                <name>Los Municipios</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5718">
+                    <name>APFFVC - Ciudad - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5719">
+                    <name>APFFVC - Edificios - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5720">
+                    <name>APFFVC - El Comercio y las Haciendas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5721">
+                    <name>APFFVC - Los Servicios Públicos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5722">
+                <name>Los Eventos</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5723">
+                    <name>APFFVC - Artísticos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5724">
+                    <name>APFFVC - Ceremonias - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5725">
+                    <name>APFFVC - Desfiles - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5726">
+                    <name>APFFVC - Fiestas, Ferias y Carnavales - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5727">
+                    <name>APFFVC - Los Eventos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5728">
+                    <name>APFFVC - Religiosos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5729">
+                <name>El Transporte</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5730">
+                    <name>APFFVC - Buses - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5731">
+                    <name>APFFVC - Caminos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5732">
+                    <name>APFFVC - Carreteras, Puentes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5733">
+                    <name>APFFVC - El Ferrocarril - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5734">
+                    <name>APFFVC - El Tranvía y los Coches - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5735">
+                    <name>APFFVC - La Aviación - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5736">
+                    <name>APFFVC - Las Bicicletas y Ca - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5737">
+                    <name>APFFVC - Las Canoas y Balsas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5738">
+                    <name>APFFVC - Los Vapores - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5739">
+                    <name>APFFVC - Puertos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5740">
+                <name>El Desarrollo</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5741">
+                    <name>APFFVC - Comercio - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5742">
+                    <name>APFFVC - Haciendas y Fincas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5743">
+                    <name>APFFVC - Industrias - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5744">
+                    <name>APFFVC - Ingenios - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5745">
+                    <name>APFFVC - Medios de Comunicación - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5746">
+                <name>Los Objetos</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5747">
+                    <name>APFFVC - Esculturas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5748">
+                    <name>APFFVC - Libros y Documentos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5749">
+                    <name>APFFVC - Muebles - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5750">
+                    <name>APFFVC - Objetos Arqueológico - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5751">
+                    <name>APFFVC - Objetos del Culto - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5752">
+                    <name>APFFVC - Pinturas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5753">
+                <name>Los Desastres</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5754">
+                    <name>APFFVC - Accidentes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5755">
+                    <name>APFFVC - Explosiones - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5756">
+                    <name>APFFVC - Incendios - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5757">
+                    <name>APFFVC - Inundaciones - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5758">
+                    <name>APFFVC - Patrimonio Destruido - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5759">
+                    <name>APFFVC - Terremotos - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5760">
+                <name>La Gente</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5761">
+                    <name>APFFVC - El Pueblo - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5762">
+                    <name>APFFVC - Hacendados y Comercio - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5763">
+                    <name>APFFVC - Inmigración - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5764">
+                    <name>APFFVC - Personajes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5765">
+                    <name>APFFVC - Políticos y Dirigentes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5766">
+                <name>La Naturaleza</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5767">
+                    <name>APFFVC - Fauna - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5768">
+                    <name>APFFVC - Flora - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5769">
+                    <name>APFFVC - Los Paisajes - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5770">
+                <name>El Cine</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5771">
+                    <name>APFFVC - Cine en General - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5772">
+                    <name>APFFVC - Documentales - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+                <collection identifier="10906/5773">
+                    <name>APFFVC - Peliculas - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+            <community identifier="10906/5774">
+                <name>General</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <collection identifier="10906/5775">
+                    <name>APFFVC - General - Patrimonial</name>
+                    <description></description>
+                    <intro></intro>
+                    <copyright></copyright>
+                    <sidebar></sidebar>
+                    <license></license>
+                    <provenance></provenance>
+                </collection>
+            </community>
+        </community>
+        <community identifier="10906/5776">
+            <name>Fondo Cali Ciudad Visible</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <collection identifier="10906/5777">
+                <name>FCCV - Recreación - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5778">
+                <name>FCCV - Juventud - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5779">
+                <name>FCCV - Composición - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5780">
+                <name>FCCV - Naturaleza - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5781">
+                <name>FCCV - Mercado - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5782">
+                <name>FCCV - Expresiones Artísticas - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5783">
+                <name>FCCV - Fachadas - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5784">
+                <name>FCCV - Calles - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5785">
+                <name>FCCV - Celebraciones - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5786">
+                <name>FCCV - Deportes - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5787">
+                <name>FCCV - Animales - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5788">
+                <name>FCCV - Alimentos - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5789">
+                <name>FCCV - Comercio - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5790">
+                <name>FCCV - Infancia - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5791">
+                <name>FCCV - Arquitectura - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5792">
+                <name>FCCV - Autorretrato - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5793">
+                <name>FCCV - Religión - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5794">
+                <name>FCCV - Retrato - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5795">
+                <name>FCCV - Paisaje Rural - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5796">
+                <name>FCCV - Parques - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5797">
+                <name>FCCV - Vivienda - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5798">
+                <name>FCCV - Trabajo - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5799">
+                <name>FCCV - Transporte - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5800">
+                <name>FCCV - Interiores - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5801">
+                <name>FCCV - Oficios - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5802">
+                <name>FCCV - Retratos de Familia - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5803">
+                <name>FCCV - Paisaje Urbano - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5804">
+                <name>FCCV - Colegios - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+            <collection identifier="10906/5805">
+                <name>FCCV - Adultos Mayores - Patrimonial</name>
+                <description></description>
+                <intro></intro>
+                <copyright></copyright>
+                <sidebar></sidebar>
+                <license></license>
+                <provenance></provenance>
+            </collection>
+        </community>
+    		<community identifier="10906/65426">
+    <name>Fondo Fotográfico Diario Occidente</name>
+		<community identifier="10906/65428">
+			<name>Cali</name>
+			<collection identifier="10906/65454">
+				<name>FFDO - Cali - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65450">
+			<name>Caricatura</name>
+			<collection identifier="10906/65454">
+				<name>FFDO - Caricatura - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65430">
+			<name>Deportes</name>
+			<collection identifier="10906/65443">
+				<name>FFDO - Otros Deportes - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65441">
+				<name>FFDO - Rincón del América - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65442">
+				<name>FFDO - Rincón del Deportivo Cali - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65452">
+			<name>Escenario</name>
+			<collection identifier="10906/65453">
+				<name>FFDO - Escenario - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65446">
+			<name>Graffiti</name>
+			<collection identifier="10906/65447">
+				<name>FFDO - Graffiti - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65427">
+			<name>Nacionales</name>
+			<collection identifier="10906/65455">
+				<name>FFDO - Nacionales - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65431">
+			<name>Personajes</name>
+			<collection identifier="10906/65456">
+				<name>FFDO - Personajes - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65429">
+			<name>Regionales</name>
+			<collection identifier="10906/65435">
+				<name>FFDO - Buenaventura - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65433">
+				<name>FFDO - Buga - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65438">
+				<name>FFDO - Cartago - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65440">
+				<name>FFDO - Jamundí - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65437">
+				<name>FFDO - Palmira - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65434">
+				<name>FFDO - Tuluá - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65432">
+				<name>FFDO - Valle del Cauca - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65436">
+				<name>FFDO - Yumbo - Patrimonial</name>
+			</collection>
+			<collection identifier="10906/65439">
+				<name>FFDO - Zarzal - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65444">
+			<name>Secciones</name>
+			<collection identifier="10906/65445">
+				<name>FFDO - Secciones - Patrimonial</name>
+			</collection>
+		</community>
+		<community identifier="10906/65448">
+			<name>Tecnología</name>
+			<collection identifier="10906/65449">
+				<name>FFDO - Tecnología - Patrimonial</name>
+			</collection>
+		</community>
+  </community>
+		</community>
+</imported_structure>

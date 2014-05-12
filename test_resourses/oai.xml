@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2011-12-19T20:57:33Z</responseDate>
+    <request metadataPrefix="mets" verb="GetRecord" identifier="oai:http://www.icesi.edu.co/biblioteca_digital:10906/43050">http://bibliotecadigital.icesi.edu.co/biblioteca_digital-oai/request</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:http://www.icesi.edu.co/biblioteca_digital:10906/43050</identifier>
+                <datestamp>2011-12-15T13:36:47Z</datestamp>
+                <setSpec>hdl_10906_5772</setSpec>
+            </header>
+            <metadata>
+                <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="DSpace_ITEM_10906-43050" OBJID="hdl:10906/43050" TYPE="DSpace ITEM" PROFILE="DSpace METS SIP Profile 1.0" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+                    <metsHdr CREATEDATE="2011-12-19T15:57:35">
+                        <agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+                            <name>Biblioteca Digital - Universidad Icesi</name>
+                        </agent>
+                    </metsHdr>
+
+                    <dmdSec ID="dmdSec_23">
+                        <mdWrap MDTYPE="MODS">
+                            <xmlData xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+                                <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+                                    <mods:name>
+                                        <mods:namePart>Biblioteca Departamental Jorge Garces Borrero</mods:namePart>
+                                    </mods:name>
+                                    <mods:name>
+                                        <mods:namePart>INGENIO MANUELITA</mods:namePart>
+
+                                    </mods:name>
+                                    <mods:extension>
+                                        <mods:dateAccessioned encoding="iso8601">2011-11-30T00:46:42Z</mods:dateAccessioned>
+                                    </mods:extension>
+                                    <mods:extension>
+                                        <mods:dateAvailable encoding="iso8601">2011-11-30T00:46:42Z</mods:dateAvailable>
+                                    </mods:extension>
+                                    <mods:originInfo>
+
+                                        <mods:dateIssued encoding="iso8601">2000-01-01</mods:dateIssued>
+                                    </mods:originInfo>
+                                    <mods:extension>
+                                        <mods:dateSubmitted encoding="iso8601">2000-07-21</mods:dateSubmitted>
+                                    </mods:extension>
+                                    <mods:identifier type="local">300077</mods:identifier>
+                                    <mods:identifier type="uri">http://hdl.handle.net/10906/43050</mods:identifier>
+
+                                    <mods:note>FILMACIÓN DE LA PLAZA DE CAICEDO.
+Cali, fecha por confirmar.
+                                    </mods:note>
+                                    <mods:note>El Archivo del Patrimonio Fotográfico y Fílmico del Valle del Cauca es responsabilidad de la Biblioteca Departamental del Valle Jorge Garcés Borrero, por convenio de cooperación suscrito con la Secretaria del Cultura Departamental, con el fin de aunar esfuerzos para su conservación, preservación y divulgación del Archivo entre la comunidad Vallecaucana, especialmente entre los estudiantes e investigadores que visitan la Biblioteca, propiciando el su uso y consulta permanente. La universidad Icesi es un colaborador en el proceso de difusión, facilitando la tecnología que permite la consulta de las imágenes.</mods:note>
+                                    <mods:note type="provenance">Made available in DSpace on 2011-11-30T00:46:42Z (GMT). No. of bitstreams: 1
+0300077.JPG: 38136 bytes, checksum: 68041d3cce83b889abbb73e583ef0939 (MD5)
+  Previous issue date: 2000-01-01
+                                    </mods:note>
+                                    <mods:note type="sponsorship">Valle del Cauca, Gobernación</mods:note>
+                                    <mods:physicalDescription>
+                                        <mods:form>jpeg</mods:form>
+
+                                    </mods:physicalDescription>
+                                    <mods:physicalDescription>
+                                        <mods:extent>13X19</mods:extent>
+                                    </mods:physicalDescription>
+                                    <mods:language>
+                                        <mods:languageTerm authority="rfc3066">spa</mods:languageTerm>
+                                    </mods:language>
+                                    <mods:originInfo>
+
+                                        <mods:publisher>Biblioteca Departamental Jorge Garces Borrero</mods:publisher>
+                                    </mods:originInfo>
+                                    <mods:relatedItem type="host">SIN INFORMACIÓN</mods:relatedItem>
+                                    <mods:relatedItem type="host">302</mods:relatedItem>
+                                    <mods:relatedItem type="series">Fondo Archivo del Patrimonio Fotográfico y Fílmico del Valle del Cauca</mods:relatedItem>
+                                    <mods:relatedItem type="otherVersion">publishedVersion</mods:relatedItem>
+
+                                    <mods:accessCondition type="useAndReproduction">EL AUTOR, expresa que la obra objeto de la presente autorización es original y la elaboró sin quebrantar ni suplantar los derechos de autor de terceros, y de tal forma, la obra es de su exclusiva autoría y tiene la titularidad sobre éste. PARÁGRAFO: en caso de queja o acción por parte de un tercero referente a los derechos de autor sobre el artículo, folleto o libro en cuestión, EL AUTOR, asumirá la responsabilidad total, y saldrá en defensa de los derechos aquí autorizados; para todos los efectos, la Universidad Icesi actúa como un tercero de buena fe. Esta autorización, permite a la Universidad Icesi, de forma indefinida, para que en los términos establecidos en la Ley 23 de 1982, la Ley 44 de 1993, leyes y jurisprudencia vigente al respecto, haga publicación de este con fines educativos Todo persona que consulte ya sea la biblioteca o en medio electróico podrá copiar apartes del texto citando siempre la fuentes, es decir el título del trabajo y el autor.</mods:accessCondition>
+                                    <mods:subject>
+                                        <mods:topic>El Cine</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Documentales</mods:topic>
+                                    </mods:subject>
+
+                                    <mods:subject>
+                                        <mods:topic>OTRO</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>INGENIO MANUELITA</mods:topic>
+                                    </mods:subject>
+                                    <mods:titleInfo>
+                                        <mods:title>FILMACIÓN DE LA PLAZA DE CAICEDO</mods:title>
+
+                                    </mods:titleInfo>
+                                    <mods:titleInfo>
+                                        <mods:title>300077</mods:title>
+                                    </mods:titleInfo>
+                                    <mods:titleInfo type="alternative">
+                                        <mods:title>300077</mods:title>
+                                    </mods:titleInfo>
+                                    <mods:genre>historicalDocument</mods:genre>
+
+                                    <mods:relatedItem type="host">
+                                        <mods:part>
+                                            <mods:text>Biblioteca Departamental Jorge Garces Borrero y INGENIO MANUELITA. FILMACIÓN DE LA PLAZA DE CAICEDO y 300077. OTRO: Biblioteca Departamental Jorge Garces Borrero, 2000. 13X19.</mods:text>
+                                        </mods:part>
+                                    </mods:relatedItem>
+                                </mods:mods>
+                            </xmlData>
+                        </mdWrap>
+                    </dmdSec>
+                    <amdSec ID="amd_24">
+
+                        <rightsMD ID="rightsMD_25">
+                            <mdWrap MIMETYPE="text/xml" MDTYPE="OTHER" OTHERMDTYPE="CreativeCommonsRDF">
+                                <binData>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJkZjpSREYgeG1sbnM6
+cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIiB4bWxuczpj
+Yz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIj4KPGNjOldvcmsgcmRmOmFib3V0PSIi
+Pgo8Y2M6bGljZW5zZSByZGY6cmVzb3VyY2U9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xp
+Y2Vuc2VzL2J5LW5jLW5kLzMuMC8iLz4KPC9jYzpXb3JrPgo8Y2M6TGljZW5zZSByZGY6YWJvdXQ9
+Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLW5kLzMuMC8iPgogICAg
+PGNjOnByb2hpYml0cyB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1s
+bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpkY3E9Imh0dHA6
+Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHJkZjpyZXNvdXJjZT0iaHR0cDovL2NyZWF0aXZlY29tbW9u
+cy5vcmcvbnMjQ29tbWVyY2lhbFVzZSIvPgogICAgPGRjOmNyZWF0b3IgeG1sbnM6ZGM9Imh0dHA6
+Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29t
+L2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiByZGY6cmVz
+b3VyY2U9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnIi8+CiAgICA8Y2M6cmVxdWlyZXMgeG1s
+bnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjPSJodHRwOi8vcHVy
+bC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVy
+bXMvIiByZGY6cmVzb3VyY2U9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zI0F0dHJpYnV0
+aW9uIi8+CiAgICA8Y2M6cmVxdWlyZXMgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2Fm
+LzAuMS8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6
+ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiByZGY6cmVzb3VyY2U9Imh0dHA6Ly9jcmVh
+dGl2ZWNvbW1vbnMub3JnL25zI05vdGljZSIvPgogICAgPGNjOmxpY2Vuc2VDbGFzcyB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9y
+Zy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8i
+IHJkZjpyZXNvdXJjZT0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZS8iLz4KICAg
+IDxjYzpsZWdhbGNvZGUgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHht
+bG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6ZGNxPSJodHRw
+Oi8vcHVybC5vcmcvZGMvdGVybXMvIiByZGY6cmVzb3VyY2U9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1v
+bnMub3JnL2xpY2Vuc2VzL2J5LW5jLW5kLzMuMC9sZWdhbGNvZGUiLz4KICAgIDxmb2FmOmxvZ28g
+eG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjPSJodHRwOi8v
+cHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMv
+dGVybXMvIiByZGY6cmVzb3VyY2U9Imh0dHA6Ly9pLmNyZWF0aXZlY29tbW9ucy5vcmcvbC9ieS1u
+Yy1uZC8zLjAvODB4MTUucG5nIi8+CiAgICA8Zm9hZjpsb2dvIHhtbG5zOmZvYWY9Imh0dHA6Ly94
+bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRz
+LzEuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgcmRmOnJlc291cmNl
+PSJodHRwOi8vaS5jcmVhdGl2ZWNvbW1vbnMub3JnL2wvYnktbmMtbmQvMy4wLzg4eDMxLnBuZyIv
+PgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+LyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0
+cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InRyIj5BdHRyaWJ1dGlvbi1HYXlyaXRp
+Y2FyaS1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5z
+OmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDov
+L3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1z
+LyIgeG1sOmxhbmc9ImZyLWNoIj5QYXRlcm5pdOkgLSBQYXMgZCdVdGlsaXNhdGlvbiBDb21tZXJj
+aWFsZSAtIFBhcyBkZSBNb2RpZmljYXRpb24gMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxk
+Yzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5z
+OmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJs
+Lm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJ1ayI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1O
+b0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJo
+dHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5z
+LmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1s
+Omxhbmc9ImVzLWNvIj5SZWNvbm9jaW1pZW50by1Ob0NvbWVyY2lhbC1TaW5PYnJhRGVyaXZhZGEg
+My4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1
+cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9h
+Zi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJr
+ayI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRp
+dGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0i
+aHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InJ1Ij5BdHRyaWJ1dGlvbi1Ob25D
+b21tZXJjaWFsLU5vRGVyaXZzICg/Pz8/Pz8/Pz8gPyA/Pz8/Pz8/Pz8/Pz8/PyA/Pz8/Pz8/Pz8/
+Pz8/ID8gPz8/ID8/Pz8/Pz8/Pz8/ID8/Pz8/Pz8/Pz8/PykgMy4wID8/Pz8/Pz8/Pz8/Pz8/Pzwv
+ZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVt
+ZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6
+ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0ibnNvIj5Uc2ViYWdhdD9v
+LUUgc2VnbyB5YSBLZ3dlYm8tVD9lIHNhIGZldG9sd2VnbyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxl
+PgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+LyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0
+cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InVyIj5BdHRyaWJ1dGlvbi1Ob25Db21t
+ZXJjaWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1s
+bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRw
+Oi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVy
+bXMvIiB4bWw6bGFuZz0iZW4iPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdnMgMy4w
+IFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwu
+b3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8w
+LjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJ0ZSI+
+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxl
+PgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+LyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0
+cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InJvIj5BdHJpYnVpcmUtTmVjb21lcmNp
+YWwtRj9yP01vZGlmaWM/cmkgMy4wIE5lLWFkYXB0YXQ/PC9kYzp0aXRsZT4KICAgIDxkYzp0aXRs
+ZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9
+Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9k
+Yy90ZXJtcy8iIHhtbDpsYW5nPSJlbi1nYiI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rl
+cml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRw
+Oi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNv
+bS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxh
+bmc9ImFyIj4/Pz8tID8/PyA/Pz8/PyAtID8/ID8/Pz8/PyAzLjAgPz8/Pz8/PzwvZGM6dGl0bGU+
+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEv
+IiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRw
+Oi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iaXQtY2giPkF0dHJpYnV6aW9uZSAtIE5v
+biBjb21tZXJjaWFsZSAtIE5vbiBvcGVyZSBkZXJpdmF0ZSAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxl
+PgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+LyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0
+cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InpoIj4/Py0/Pz8/Pz8tPz8/PyAzLjAg
+VW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5v
+cmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAu
+MS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImRlLWF0
+Ij5OYW1lbnNuZW5udW5nLU5pY2h0S29tbWVyemllbGwtS2VpbmVCZWFyYmVpdHVuZyAzLjAgVW5w
+b3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcv
+ZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8i
+IHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InZpIj5HaGkg
+bmg/biBj9G5nIGM/YSB04WMgZ2k/IC0gUGhpIHRoPz9uZyBtP2kgLSBLaPRuZyBwaOFpIHNpbmgg
+IDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9w
+dXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2Zv
+YWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0i
+ZW4tY2EiPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdnMgMy4wIFVucG9ydGVkPC9k
+Yzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1l
+bnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpk
+Y3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJlcy1wciI+UmVjb25vY2lt
+aWVudG8tTm9Db21lcmNpYWwtU2luT2JyYXNEZXJpdmFkYXMgMy4wIFVucG9ydGVkPC9kYzp0aXRs
+ZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEu
+MS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0
+dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJzaS1sayI+QXR0cmlidXRpb24tTm9u
+Q29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxl
+IHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0i
+aHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2Rj
+L3Rlcm1zLyIgeG1sOmxhbmc9ImZhIj5BdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZz
+IDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9w
+dXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2Zv
+YWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0i
+ZXUiPkFpdG9ydHUtRXpLb21lcnR6aWFsYS1MYW5FcmF0b3JyaXJpa0dhYmUgMy4wIFVucG9ydGVk
+PC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2Vs
+ZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxu
+czpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJoaSI+QXR0cmlidXRp
+b24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRj
+OnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6
+Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwu
+b3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImphIj4/PyAtID8/PyAtID8/Pz8gMy4wID8/PzwvZGM6
+dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50
+cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNx
+PSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZXMtZ3QiPlJlY29ub2NpbWll
+bnRvLU5vQ29tZXJjaWFsLVNpbk9icmFEZXJpdmFkYSAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgog
+ICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIg
+eG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDov
+L3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InNxIj5BdHRyaWJ1dGlvbi1Ob25Db21tZXJj
+aWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6
+ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8v
+eG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMv
+IiB4bWw6bGFuZz0iaWQiPkF0cmlidXNpLU5vbktvbWVyc2lhbC1UYW5wYVR1cnVuYW4gMy4wIFVu
+cG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3Jn
+L2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEv
+IiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJubyI+TmF2
+bmdpdmVsc2UtSWtrZWtvbW1lcnNpZWxsLUluZ2VuQmVhcmJlaWRlbHNlIDMuMCBVbnBvcnRlZDwv
+ZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVt
+ZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6
+ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0ibWsiPj8/Pz8/Pz8/Pz8/
+LT8/Pz8/Pz8/Pz8/Pz8/LT8/Pz8/Pz8/Pz8/Pz8/Pz8/IDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+
+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEv
+IiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRw
+Oi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iY3MiPlV2ZT90ZSBhdXRvcmEtTmV1P+12
+ZWp0ZSBk7WxvIGtvbWVyP24/LU5lemFzYWh1anRlIGRvIGTtbGEgMy4wIFVucG9ydGVkPC9kYzp0
+aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRz
+LzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9
+Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJzckBsYXRpbiI+QXV0b3JzdHZv
+LU5la29tZXJjaWphbG5vLUJleiBwcmVyYWRhIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8
+ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxu
+czpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVy
+bC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iYXN0LWVzIj5BdHRyaWJ1dGlvbi1Ob25Db21tZXJj
+aWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6
+ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8v
+eG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMv
+IiB4bWw6bGFuZz0iZmkiPk5pbWXkLUVpIG11dXRva3NpYS1FcORrYXVwYWxsaW5lbiAzLjAgTXVv
+a2thYW1hdG9uPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwu
+b3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8w
+LjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJ0aCI+
+Pz8/Pz8/Pz8/LT8/Pz8/Pz8/Pz8/Pz8/Pz8/LT8/Pz8/Pz8/Pz8gMy4wID8/Pz8/Pz88L2RjOnRp
+dGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0i
+aHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InN2Ij5Fcmvkbm5hbmRlLUlja2Vr
+b21tZXJzaWVsbC1JbmdhQmVhcmJldG5pbmdhciAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAg
+PGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1s
+bnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1
+cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9Im1zIj5QZW5naWt0aXJhZmFuLUJ1a2FuS29tZXJz
+aWFsLVRpYWRhVGVyYml0YW4gMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4
+bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0
+dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90
+ZXJtcy8iIHhtbDpsYW5nPSJ0YSI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAz
+LjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVy
+bC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2Fm
+LzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImRl
+LWNoIj5OYW1lbnNuZW5udW5nLU5pY2h0S29tbWVyemllbGwtS2VpbmVCZWFyYmVpdHVuZyAzLjAg
+VW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5v
+cmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAu
+MS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9Im1uIj5B
+dHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+
+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEv
+IiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRw
+Oi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZW4taGsiPkF0dHJpYnV0aW9uLU5vbkNv
+bW1lcmNpYWwtTm9EZXJpdnMgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4
+bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0
+dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90
+ZXJtcy8iIHhtbDpsYW5nPSJoeSI+Pz8/Pz8gLSA/Py0/Pz8/Pz8/Pz8gPz8/Pz8/Pz8/Pz8gLSA/
+Pz8/Pz8/Pz8/PyA/Pz8/PyA/Pz8/Pz8/Pz8/Pz8/PyAzLjAgPz8/Pz8/Pz8/Pz8/PC9kYzp0aXRs
+ZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEu
+MS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0
+dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJnbCI+UmVjb/FlY2VtZW50by1Ob25D
+b21lcmNpYWwtU2VuT2JyYURlcml2YWRhIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6
+dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5v
+cmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iaTE4biI+JHtsaWNlbnNlcy5wcmV0dHlfYnktbmMtbmR9
+IDMuMCAke3V0aWwuVW5wb3J0ZWR9PC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0i
+aHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxu
+cy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHht
+bDpsYW5nPSJubCI+TmFhbXN2ZXJtZWxkaW5nLU5pZXRDb21tZXJjaWVlbC1HZWVuQWZnZWxlaWRl
+V2Vya2VuIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0
+dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMu
+Y29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6
+bGFuZz0iZW4tc2ciPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdnMgMy4wIFVucG9y
+dGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2Rj
+L2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4
+bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJlcyI+QXRyaWJ1
+Y2nzbi1Ob0NvbWVyY2lhbC1TaW5EZXJpdmFkYXMgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAg
+IDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHht
+bG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9w
+dXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJzci1sYXRuIj5BdXRvcnN0dm8tTmVrb21lcmNp
+amFsbm8tQmV6IHByZXJhZGEgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4
+bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0
+dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90
+ZXJtcy8iIHhtbDpsYW5nPSJpcyI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAz
+LjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVy
+bC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2Fm
+LzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImVz
+LXBlIj5SZWNvbm9jaW1pZW50by1Ob0NvbWVyY2lhbC1TaW5PYnJhRGVyaXZhZGEgMy4wIFVucG9y
+dGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2Rj
+L2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4
+bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJlbi11cyI+QXR0
+cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgog
+ICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIg
+eG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDov
+L3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9Imh1Ij5OZXZlemQgbWVnISAtIE5lIGFkZCBl
+bCEgLSBOZSB24Wx0b3p0YXNkISAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxl
+IHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0i
+aHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2Rj
+L3Rlcm1zLyIgeG1sOmxhbmc9ImtvIj4/Pz8/Py0/Pz8tPz8/PyAzLjAgVW5wb3J0ZWQ8L2RjOnRp
+dGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0i
+aHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImhlIj4/Pz8/Py0/Pz8/PyA/PyA/
+Pz8/Py0/Pz8/PyA/Pz8/Pz8gPz8/Pz8/IDMuMCA/PyA/Pz8/PzwvZGM6dGl0bGU+CiAgICA8ZGM6
+dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5v
+cmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iYmUiPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9E
+ZXJpdnMgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0
+cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5j
+b20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDps
+YW5nPSJsdiI+QXRzYXVjb3RpZXMtTmVrb21lcmNpP2xzLU5lbWFpbj90cyAzLjAgTmVwP3JuZXN0
+YTwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9l
+bGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1s
+bnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZnItY2EiPlBhdGVy
+bml06SAtIFBhcyBkJ1V0aWxpc2F0aW9uIENvbW1lcmNpYWxlIC0gUGFzIGRlIE1vZGlmaWNhdGlv
+biAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8v
+cHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9m
+b2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9
+ImVzLWVzIj5SZWNvbm9jaW1pZW50by1Ob0NvbWVyY2lhbC1TaW5PYnJhRGVyaXZhZGEgMy4wIFVu
+cG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3Jn
+L2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEv
+IiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJjYSI+UmVj
+b25laXhlbWVudC1Ob0NvbWVyY2lhbC1TZW5zZU9icmFEZXJpdmFkYSAzLjAgTm8gYWRhcHRhZGE8
+L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxl
+bWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5z
+OmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImF6Ij5BdHRyaWJ1dGlv
+bi1Ob25Db21tZXJjaWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6
+dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5v
+cmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZXMtZWMiPlJlY29ub2NpbWllbnRvLU5vQ29tZXJjaWFs
+LVNpbk9icmFEZXJpdmFkYSAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHht
+bG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0
+cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rl
+cm1zLyIgeG1sOmxhbmc9InB0LWJyIj5BdHJpYnVp5+NvLVVzbyBu428tY29tZXJjaWFsLVZlZGFk
+YSBhIGNyaWHn428gZGUgb2JyYXMgZGVyaXZhZGFzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAg
+ICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4
+bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8v
+cHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iYWYiPkVya2VubmluZy1OaWVLb21tZXJzaWVl
+bC1HZWVuQWZsZWlkaW5ncyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHht
+bG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0
+cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rl
+cm1zLyIgeG1sOmxhbmc9Inp1Ij5RYXBoZWxhIFVtbmlrYXppLVVuZ2F5aXNlYmVuemlzZWxpIEV6
+ZW50ZW5naXNlbHdhbm8tVW5nYXN1c2VsaSBsdXRobyBrdWxva2h1IDMuMCBVbnBvcnRlZDwvZGM6
+dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50
+cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNx
+PSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0icGwiPlV6bmFuaWUgYXV0b3Jz
+dHdhLVU/eWNpZSBuaWVrb21lcmN5am5lLUJleiB1dHdvcvN3IHphbGU/bnljaCAzLjAgVW5wb3J0
+ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMv
+ZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHht
+bG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9Imx0Ij5BdHRyaWJ1
+dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8
+ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxu
+czpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVy
+bC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0icHQiPkF0cmlidWnn428gLSBO429Db21lcmNpYWwg
+LSBTZW1EZXJpdmFkb3MgMy4wIE7jbyBBZGFwdGFkYTwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUg
+eG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJo
+dHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMv
+dGVybXMvIiB4bWw6bGFuZz0iZGUiPk5hbWVuc25lbm51bmctTmljaHRLb21tZXJ6aWVsbC1LZWlu
+ZUJlYXJiZWl0dW5nIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6
+ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8v
+eG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMv
+IiB4bWw6bGFuZz0ibWwiPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdnMgMy4wIFVu
+cG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3Jn
+L2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEv
+IiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJldCI+QXV0
+b3JpbGUgdmlpdGFtaW5lICsgTWl0dGXkcmlsaW5lIGVlc23kcmsgKyBUdWxldGF0dWQgdGVvc3Rl
+IGtlZWxkIDMuMCBKdXJpc2Rpa3RzaW9vbmlnYSBzaWR1bWF0YTwvZGM6dGl0bGU+CiAgICA8ZGM6
+dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5v
+cmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZGEiPk5hdm5naXZlbHNlLUlra2VLb21tZXJjaWVsLUlu
+Z2VuQmVhcmJlamRlbHNlIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1s
+bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRw
+Oi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVy
+bXMvIiB4bWw6bGFuZz0ib2NpLWVzIj5BdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZz
+IDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9w
+dXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2Zv
+YWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0i
+emgtaGsiPj8/Pz8tPz8/Py0/Pz8/IDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0
+bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2Fm
+PSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcv
+ZGMvdGVybXMvIiB4bWw6bGFuZz0iaXQiPkF0dHJpYnV6aW9uZSAtIE5vbiBjb21tZXJjaWFsZSAt
+IE5vbiBvcGVyZSBkZXJpdmF0ZSAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxl
+IHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0i
+aHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2Rj
+L3Rlcm1zLyIgeG1sOmxhbmc9InB0LXB0Ij5BdHJpYnVp5+NvLVVzbyBO428tQ29tZXJjaWFsLVBy
+b2liaefjbyBkZSByZWFsaXph5+NvIGRlIE9icmFzIERlcml2YWRhcyAzLjAgVW5wb3J0ZWQ8L2Rj
+OnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVu
+dHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRj
+cT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImJnIj4/Pz8/Pz8/Pz8tPz8/
+Pz8/Pz8/Pz8/Py0/Pz8gPz8/Pz8/Pz8/PyAzLjAgPz8/Pz8/Pz8/Pz8/PzwvZGM6dGl0bGU+CiAg
+ICA8ZGM6dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4
+bWxuczpmb2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8v
+cHVybC5vcmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZnItbHUiPlBhdGVybml06SAtIFBhcyBkJ1V0
+aWxpc2F0aW9uIENvbW1lcmNpYWxlIC0gUGFzIGRlIE1vZGlmaWNhdGlvbiAzLjAgVW5wb3J0ZWQ8
+L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxl
+bWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5z
+OmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InNyIj4/Pz8/Pz8/Pz8t
+Pz8/Pz8/Pz8/Pz8/Pz8tPz8/ID8/Pz8/Pz8gMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxk
+Yzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5z
+OmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJs
+Lm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJhc3QiPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwt
+Tm9EZXJpdnMgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0i
+aHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxu
+cy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHht
+bDpsYW5nPSJlcy1hciI+QXRyaWJ1Y2nzbi1Ob0NvbWVyY2lhbC1TaW5EZXJpdmFkYXMgMy4wIFVu
+cG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3Jn
+L2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEv
+IiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJzdCI+QXR0
+cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgog
+ICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIg
+eG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDov
+L3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImFzIj5BdHRyaWJ1dGlvbi1Ob25Db21tZXJj
+aWFsLU5vRGVyaXZzIDMuMCBVbnBvcnRlZDwvZGM6dGl0bGU+CiAgICA8ZGM6dGl0bGUgeG1sbnM6
+ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpmb2FmPSJodHRwOi8v
+eG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5vcmcvZGMvdGVybXMv
+IiB4bWw6bGFuZz0iZ2EiPkF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdnMgMy4wIFVu
+cG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0cDovL3B1cmwub3Jn
+L2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEv
+IiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDpsYW5nPSJrYSI+Pz8/
+Pz8/Pz8/ID8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/ID8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/
+Pz8/ID8/Pz8/PyAzLjAgPz8/Pz8/Pz8/Pz8/Pz88L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHht
+bG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0
+cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rl
+cm1zLyIgeG1sOmxhbmc9InpoLXR3Ij4/Pz8/LT8/Pz8tPz8/PyAzLjAgVW5wb3J0ZWQ8L2RjOnRp
+dGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv
+MS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0i
+aHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImhyIj5JbWVub3ZhbmplLU5la29t
+ZXJjaWphbG5vLUJleiBwcmVyYWRhIDMuMCBuZWxva2xpemlyYW5hIGxpY2VuY2E8L2RjOnRpdGxl
+PgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4x
+LyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0
+cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImVzLWNsIj5BdHJpYnVjafNuLU5vQ29t
+ZXJjaWFsLVNpbkRlcml2YWRhcyAzLjAgVW5wb3J0ZWQ8L2RjOnRpdGxlPgogICAgPGRjOnRpdGxl
+IHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0i
+aHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2Rj
+L3Rlcm1zLyIgeG1sOmxhbmc9ImVzLW14Ij5BdHJpYnVjafNuLU5vIENvbWVyY2lhbC1ObyBEZXJp
+dmFkYXMgMy4wIFVucG9ydGVkPC9kYzp0aXRsZT4KICAgIDxkYzp0aXRsZSB4bWxuczpkYz0iaHR0
+cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5j
+b20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iIHhtbDps
+YW5nPSJibiI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbC1Ob0Rlcml2cyAzLjAgVW5wb3J0ZWQ8
+L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxl
+bWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5z
+OmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImVsIj4/Pz8/Pz8/ID8/
+Pz8/Pz8/Pz8tPz8gPz8/Pz8/Pz8gPz8/Pz8tPz8/ID8/Pz8/Pz8/ID8/Pz8gMy4wID8/ID8/Pz8/
+Pz8/Pz88L2RjOnRpdGxlPgogICAgPGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcv
+ZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8i
+IHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9ImVvIj5BdHJp
+YnVpdGUtTmVrb21lcmNlLU5lbW9kaWZpdGUgMy4wIE5lYWRhcHRpdGE8L2RjOnRpdGxlPgogICAg
+PGRjOnRpdGxlIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1s
+bnM6Zm9hZj0iaHR0cDovL3htbG5zLmNvbS9mb2FmLzAuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1
+cmwub3JnL2RjL3Rlcm1zLyIgeG1sOmxhbmc9InNsIj5Qcml6bmFuamUgYXZ0b3JzdHZhLU5la29t
+ZXJjaWFsbm8tQnJleiBwcmVkZWxhdiAzLjAgTmVkb2xvP2VuYTwvZGM6dGl0bGU+CiAgICA8ZGM6
+dGl0bGUgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpm
+b2FmPSJodHRwOi8veG1sbnMuY29tL2ZvYWYvMC4xLyIgeG1sbnM6ZGNxPSJodHRwOi8vcHVybC5v
+cmcvZGMvdGVybXMvIiB4bWw6bGFuZz0iZnIiPkF0dHJpYnV0aW9uIC0gUGFzIGQ/VXRpbGlzYXRp
+b24gQ29tbWVyY2lhbGUgLSBQYXMgZGUgTW9kaWZpY2F0aW9uIDMuMCBub24gdHJhbnNwb3PpPC9k
+Yzp0aXRsZT4KICAgIDxjYzpwZXJtaXRzIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9h
+Zi8wLjEvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5z
+OmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1zLyIgcmRmOnJlc291cmNlPSJodHRwOi8vY3Jl
+YXRpdmVjb21tb25zLm9yZy9ucyNSZXByb2R1Y3Rpb24iLz4KICAgIDxjYzpwZXJtaXRzIHhtbG5z
+OmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwu
+b3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmRjcT0iaHR0cDovL3B1cmwub3JnL2RjL3Rlcm1z
+LyIgcmRmOnJlc291cmNlPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyNEaXN0cmlidXRp
+b24iLz4KICAgIDxkY3E6aGFzVmVyc2lvbiB4bWxuczpkY3E9Imh0dHA6Ly9wdXJsLm9yZy9kYy90
+ZXJtcy8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkYz0i
+aHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjMuMDwvZGNxOmhhc1ZlcnNpb24+CiAg
+ICA8ZGM6aWRlbnRpZmllciB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEu
+MS8iIHhtbG5zOmZvYWY9Imh0dHA6Ly94bWxucy5jb20vZm9hZi8wLjEvIiB4bWxuczpkY3E9Imh0
+dHA6Ly9wdXJsLm9yZy9kYy90ZXJtcy8iPmJ5LW5jLW5kPC9kYzppZGVudGlmaWVyPgogIDwvY2M6
+TGljZW5zZT4KPC9yZGY6UkRGPgo=
+                                </binData>
+                            </mdWrap>
+                        </rightsMD>
+                    </amdSec>
+                    <amdSec ID="amd_29">
+                        <techMD ID="techMD_30">
+
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://www.icesi.edu.co/biblioteca_digital/bitstream/10906%2F43050/1/0300077.JPG</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>68041d3cce83b889abbb73e583ef0939</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>38136</premis:size>
+                                                <premis:format>
+
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>0300077.JPG</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="amd_31">
+                        <techMD ID="techMD_32">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://www.icesi.edu.co/biblioteca_digital/bitstream/10906%2F43050/2/0300077.JPG.jpg</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+
+                                                    <premis:messageDigest>f81bcc9b736e371b0449d9846bd634d9</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>2346</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>0300077.JPG.jpg</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="amd_33">
+
+                        <techMD ID="techMD_34">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://www.icesi.edu.co/biblioteca_digital/bitstream/10906%2F43050/7/0300077.JPG.preview.jpg</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>b1a73408b24b98d9219f09d31e96154a</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>38690</premis:size>
+
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>0300077.JPG.preview.jpg</premis:originalName>
+                                        </premis:object>
+
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <fileSec>
+                        <fileGrp USE="CONTENT">
+                            <file ID="bitstream_1" MIMETYPE="image/jpeg" SEQ="1" SIZE="38136" CHECKSUM="68041d3cce83b889abbb73e583ef0939" CHECKSUMTYPE="MD5" ADMID="amd_29" GROUPID="GROUP_bitstream_1">
+                                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_55938.jpeg" />
+                            </file>
+
+                        </fileGrp>
+                        <fileGrp USE="THUMBNAIL">
+                            <file ID="bitstream_2" MIMETYPE="image/jpeg" SEQ="2" SIZE="2346" CHECKSUM="f81bcc9b736e371b0449d9846bd634d9" CHECKSUMTYPE="MD5" ADMID="amd_31" GROUPID="GROUP_bitstream_1">
+                                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_151982.jpeg" />
+                            </file>
+                        </fileGrp>
+                        <fileGrp USE="BRANDED_PREVIEW">
+                            <file ID="bitstream_7" MIMETYPE="image/jpeg" SEQ="7" SIZE="38690" CHECKSUM="b1a73408b24b98d9219f09d31e96154a" CHECKSUMTYPE="MD5" ADMID="amd_33" GROUPID="GROUP_bitstream_7">
+                                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_238214.jpeg" />
+
+                            </file>
+                        </fileGrp>
+                    </fileSec>
+                    <structMap ID="struct_26" LABEL="DSpace Object" TYPE="LOGICAL">
+                        <div ID="div_27" DMDID="dmdSec_23" ADMID="amd_24" TYPE="DSpace Object Contents">
+                            <div ID="div_28" TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="bitstream_1" />
+                            </div>
+                        </div>
+
+                    </structMap>
+                </mets>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>
