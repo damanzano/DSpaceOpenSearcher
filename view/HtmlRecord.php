@@ -4,6 +4,9 @@
 //error_reporting(E_ALL ^ E_NOTICE);
 /**
  * Display the a record in html format
+ * 
+ * 2014-05-14 damanzano
+ * Citation block is eliminate because it hasn't never been part of METS format.
  *
  * @author David Andrés Manzano Herrera - Damanzano
  * @since 2011-12-19
@@ -131,9 +134,9 @@ echo '<td></tr>';
 //publisher
 echo '<tr data-metadata="publisher"><th>Editorial:</th><td>';
 foreach ($publishers as $publisherOption){        
-    $publisher=$publisherOption->children("mods", true)->publisher.'<br/>';
+    $publisher=$publisherOption->children("mods", true)->publisher;
     if($publisher!=null){
-        echo $publisher;
+        echo $publisher.'<br/>';
     }
 }
 echo '<td></tr>';
@@ -144,15 +147,18 @@ echo $description;
 echo '<td></tr>';
 
 //citation
-echo '<tr data-metadata="citation"><th>Citaci&oacute;n:</th><td>';
-foreach ($relatedItems as $relatedItem){        
-    if($relatedItem->attributes()->type=="host"){        
-        if($relatedItem->children("mods", true)->part!=null && $relatedItem->children("mods", true)->part!=''){
-            echo $relatedItem->children("mods", true)->part[0]->children("mods", true)->text;
-        }
-    }
-}
-echo '<td></tr>';
+/**
+ 
+ */
+//echo '<tr data-metadata="citation"><th>Citaci&oacute;n:</th><td>';
+//foreach ($relatedItems as $relatedItem){        
+//    if($relatedItem->attributes()->type=="host"){        
+//        if($relatedItem->children("mods", true)->part!=null && $relatedItem->children("mods", true)->part!=''){
+//            echo $relatedItem->children("mods", true)->part[0]->children("mods", true)->text;
+//        }
+//    }
+//}
+//echo '<td></tr>';
 
 echo '<tr data-metadata="isparofseries"><th>Hace parte de:</th><td>';
 foreach ($relatedItems as $relatedItem){        
