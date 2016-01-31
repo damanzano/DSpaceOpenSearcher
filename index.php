@@ -102,7 +102,7 @@
                                 <tr>
                                     <td>
                                         <select name="scope_community" id="scope_community"><?php echo HtmlSearchOptions::communityScopes("11522/3611", false, true, 2, false) ?></select>
-                                        <select name="scope_categories" id="10906_5699" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("11522/3647", true, true, -1, false) . "</pre>" ?></select>
+                                        <select name="scope_categories" id="11522_3647" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("11522/3647", true, true, -1, false) . "</pre>" ?></select>
                                         <input type="button" value="Buscar" id="search" name="search" />
                                     </td>
 
