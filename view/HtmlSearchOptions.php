@@ -4,7 +4,7 @@
  * Description of HtmlSearchOptions
  *
  * @author David Andrés Manzano Herrera - Damanzano
- * @since 2011-12-23
+ * @since 2015-12-23
  * @package view
  */
 class HtmlSearchOptions {
@@ -13,7 +13,7 @@ class HtmlSearchOptions {
      * Prints selects options with the given community's tree structure
      * 
      * @author damanzano  
-     * @since 2011-12-23
+     * @since 2015-12-23
      * @param string $communityId
      * @param boolean $showCollections
      * @param boolean $showTopTitle
@@ -38,7 +38,14 @@ class HtmlSearchOptions {
         
         return $html;
     }
-
+    
+    /**
+     * Looks for a comunnity element identified with the $comunityId paramenter, inside a given a parent xml structure. 
+     * Return a xml structure representing the found comunnity or <null> in case the given identifier is not found.
+     * @param string $communityId
+     * @param xml $xmlCommunity
+     * @return xml
+     */
     private static function lookForCommunity($communityId, $xmlCommunity) {
         $foundCommunity = null;       
         
@@ -58,7 +65,18 @@ class HtmlSearchOptions {
         }
         return $foundCommunity;
     }
-
+    
+    /**
+     * Return a string with the html representation of the search option for a comunnity.
+     * @param xml $xmlCommunity
+     * @param string $html
+     * @param boolean $showCollections
+     * @param boolean $showOwnTitle
+     * @param int $depth
+     * @param boolean $subcommunitiesAsValues
+     * @param int $start
+     * @return string 
+     */
     static private function communityOptions($xmlCommunity, $html, $showCollections=true, $showOwnTitle=true, $depth=-1, $subcommunitiesAsValues=false, $start=0) {
         if ($depth != 0) {
             
