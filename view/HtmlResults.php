@@ -13,11 +13,11 @@ include_once 'Navigator.php';
 // Getting dspace request attributes
 
 // Development and test
-//$url = "http://192.168.220.28:8100/biblioteca_digital/open-search";
+//$url = "http://192.168.220.28:8100/biblioteca_digital/open-search/discover";
 //$oaiBaseIdentifier="oai:http://192.168.220.29/vitela.javerianacali.edu.co:";
 
 // Production
-$url = "https://vitela.javerianacali.edu.co/open-search";
+$url = "https://vitela.javerianacali.edu.co/open-search/discover";
 $oaiBaseIdentifier = "oai:vitela.javerianacali.edu.co:";
 
 $format = "atom";
