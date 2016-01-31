@@ -5,27 +5,23 @@
 /**
  * Display the a record in html format
  * 
- * 2014-05-14 damanzano
- * Citation block is eliminate because it hasn't never been part of METS format.
- *
  * @author David Andrés Manzano Herrera - Damanzano
- * @since 2011-12-19
+ * @since 2015-12-19
  * @package view
  */
 
 include_once '../control/DspaceOAIRequester.php';
 include_once '../control/DspaceFileRequester.php';
 
-//getting dspace oai request attributes
-//production
-//$oaiBaseUrl = "http://bibliotecadigital.icesi.edu.co/biblioteca_digital-oai/request";
-//$retrieveBaseUrl="http://bibliotecadigital.icesi.edu.co/biblioteca_digital/retrieve/";
-//development
+// Getting dspace oai request attributes
+
+// Development and test
 //$oaiBaseUrl = "http://192.168.220.28:8100/biblioteca_digital-oai/request";
 //$retrieveBaseUrl = "http://192.168.220.28:8100/biblioteca_digital/retrieve/";
-//test
-$oaiBaseUrl = "http://192.168.220.228:8100/biblioteca_digital-oai/request";
-$retrieveBaseUrl="http://192.168.220.228:8100/biblioteca_digital/retrieve/";
+
+// Prodiction
+$oaiBaseUrl = "https://vitela.javerianacali.edu.co/oai/request";
+$retrieveBaseUrl="https://vitela.javerianacali.edu.co/retrieve/";
 
 $identifier = $_POST["identifier"];
 $scope = $_POST["scope"];

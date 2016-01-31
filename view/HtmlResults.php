@@ -4,22 +4,21 @@
  * Display the search results in html format
  *
  * @author David Andrés Manzano Herrera - Damanzano
- * @since 2011-12-16
+ * @since 2015-12-16
  * @package view
  */
 include_once '../control/DspaceOpensearchRequester.php';
 include_once 'Navigator.php';
 
-//getting dspace request attributes
-//production
-//$url = "http://bibliotecadigital.icesi.edu.co/biblioteca_digital/open-search";
-//$oaiBaseIdentifier = "oai:http://www.icesi.edu.co/biblioteca_digital:";
-//development
+// Getting dspace request attributes
+
+// Development and test
 //$url = "http://192.168.220.28:8100/biblioteca_digital/open-search";
-//$oaiBaseIdentifier="oai:http://192.168.220.29/biblioteca_digital:";
-//test
-$url = "http://192.168.220.228:8100/biblioteca_digital/open-search";
-$oaiBaseIdentifier = "oai:192.168.220.228:";
+//$oaiBaseIdentifier="oai:http://192.168.220.29/vitela.javerianacali.edu.co:";
+
+// Production
+$url = "https://vitela.javerianacali.edu.co/open-search";
+$oaiBaseIdentifier = "oai:vitela.javerianacali.edu.co:";
 
 $format = "atom";
 $scope = $_POST["scope"];
