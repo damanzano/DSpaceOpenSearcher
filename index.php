@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Buscador Archivo del Patrimonio Fotográfico y Fílmico del Valle del Cauca</title>        
+        <title>Buscador Patrimonio Cultural Colombiano</title>        
         <link rel="stylesheet" href="css/smoothness/jquery-ui-1.8.16.custom.css" />
         <link rel="stylesheet" href="css/search.css" />
         <!-- <link rel="stylesheet" href="css/jquery.mobile-1.0.min.css" />-->
@@ -12,7 +12,7 @@
         <script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
         <script type="text/javascript" src="js/searcher.js"></script>
 <script type="text/javascript">
-
+/** REMOVE THIS COMMENT WHEN THE URL WHERE THIS COMPONENT WOULD BE AVAILABLE IS DEFINED
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-23288160-39']);
   _gaq.push(['_trackPageview']);
@@ -22,14 +22,14 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+*/
 </script>
     </head>
     <body>
         <div id="wrapper" data-role="page" class="ui-widget">
             <div id="header" data-role="header" class="ui-widget-header ">
                 <h2>
-                    Buscador Archivo del Patrimonio Fotogr&aacute;fico y F&iacute;lmico del Valle del Cauca
+                    Buscador Patrimonio Cultural Colombiano
                 </h2>
             </div>
 
@@ -101,13 +101,8 @@
                                 </tr>
                                 <tr>
                                     <td>
-<!--                                        <input type="button" value="Todo el archivo fotogr&aacute;fico" id="affvc" name="affvc" />
-                                        <input type="button" value="Fondo Archivo del Patrimonio Fotofr&aacute;fico y F&iacute;lmico del Valle del Cauca" id="fapffvc" name="affvc" />
-                                        <input type="button" value="Fondo Cali Ciudad Visible" id="fccv" name="affvc" />-->
-                                        <select name="scope_community" id="scope_community"><?php echo HtmlSearchOptions::communityScopes("10906/5698", false, true, 2, false) ?></select>
-                                        <select name="scope_categories" id="10906_5699" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("10906/5699", true, true, -1, false) . "</pre>" ?></select>
-                                        <select name="scope_categories" id="10906_5776" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("10906/5776", true, true, -1, false) . "</pre>" ?></select>
-                                        <select name="scope_categories" id="10906_65426" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("10906/65426", true, true, -1, false) . "</pre>" ?></select>
+                                        <select name="scope_community" id="scope_community"><?php echo HtmlSearchOptions::communityScopes("11522/3611", false, true, 2, false) ?></select>
+                                        <select name="scope_categories" id="10906_5699" style="display: none;"><?php echo "<pre>" . HtmlSearchOptions::communityScopes("11522/3647", true, true, -1, false) . "</pre>" ?></select>
                                         <input type="button" value="Buscar" id="search" name="search" />
                                     </td>
 
@@ -128,15 +123,8 @@
             </div> 
 
             <div id="footer" class="ui-widget-content ui-corner-all">
-                <h3>Powered by <a href="http://www.icesi.edu.co" title="Universidad Icesi">Universidad Icesi</a></h3>
+                <h3>Elaborated by <a href="http://www.davidmanzano.me" title="Universidad Icesi">David Andrés Manzano</a></h3>
             </div>
         </div>
-
-        <!--         
-        <div id="logos">
-            <img id="logo_dpt" src="images/bibdpt.png" alt="Bilioteca Departamental Jorge Garc&eacute;s Borrero" />
-            <a href="http://bibliotecadigital.icesi.edu.co/biblioteca_digital/"><img id="logo_icesi" src="images/logo_icesi.png" alt="Biblioteca Digital - Universidad Icesi"/></a>
-        </div>
-        -->
     </body>
 </html>
