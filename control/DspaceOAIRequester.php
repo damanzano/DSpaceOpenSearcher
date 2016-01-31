@@ -3,7 +3,7 @@
  * This class does requests to a dspace oai webapp
  *
  * @author David andrés Manzano Herrera - damanzano
- * @since 2011-12-19
+ * @since 2015-12-19
  * @package control
  */
 class DspaceOAIRequester {
@@ -13,7 +13,7 @@ class DspaceOAIRequester {
     /**
      * Contructor of DspaceOAIRequester object
      * @author damanzano
-     * @since 2011-12-19
+     * @since 2015-12-19
      * @param string $oaiBaseUrl Base url for dspace oai requests
      */
     function __construct($oaiBaseUrl) {
@@ -23,7 +23,7 @@ class DspaceOAIRequester {
     /**
      * This method returns a xml string for a oai GetRecord request
      * @author damanzano
-     * @since 2011-12-19
+     * @since 2015-12-19
      * @param string $identifier oai idenfier for the dspace item to be gotten
      * @param string $metadaPrefix oai request metadata prefix 
      */

@@ -3,7 +3,7 @@
  * This class does requests to a dspace open-search servlet and save the xml response into a variable
  *
  * @author David Andrés Manzano Herrera - Damanzano
- * @since 2011-12-19
+ * @since 2015-12-19
  * @package control
  */
 class DspaceOpensearchRequester {
@@ -21,7 +21,7 @@ class DspaceOpensearchRequester {
     /**
      * Constructor of DspaceOpensearchRequester object.
      * @author damanzano
-     * @since 2011-12-16
+     * @since 2015-12-16
      * @param string $url
      * @param string $format
      * @param string $scope
@@ -46,7 +46,7 @@ class DspaceOpensearchRequester {
     /**
      * Set the attributes for DspaceOpensearchRequester object. This method is equivalent to the contructor.
      * @author damanzano
-     * @since 2011-12-16
+     * @since 2015-12-16
      * @param string $url
      * @param string $format
      * @param string $scope
@@ -71,7 +71,7 @@ class DspaceOpensearchRequester {
     /**
      * This method returns a xml string for a open search request
      * @author damanzano
-     * @since 2011-12-16
+     * @since 2015-12-16
      */
     public function sendRequest() {
         try {

@@ -4,7 +4,7 @@
  * This Class generate html navigation links for a result list.
  *
  * @author David Andrés Manzano Herrera - damanzano
- * @since 2011-12-16
+ * @since 2015-12-16
  */
 class Navigator {
 
@@ -19,7 +19,7 @@ class Navigator {
      * This method set all the attributes for the navigator.
      *
      * @author damanzano
-     * @since 2011-12-16
+     * @since 2015-12-16
      * @param int $startIndex 
      * @param int $rpp
      * @param int $size
@@ -38,7 +38,7 @@ class Navigator {
      * This display the navigator in html format.
      *
      * @author damanzano
-     * @since 2011-12-16     
+     * @since 2015-12-16     
      */
     public function render() {
         $html = '<div class="navigation" data-role="navbar">';

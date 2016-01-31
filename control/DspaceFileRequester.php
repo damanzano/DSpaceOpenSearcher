@@ -3,7 +3,7 @@
  * This class does a requests to the dspace servlets. This class is not being used for the moment.
  *
  * @author David andrés Manzano Herrera - damanzano
- * @since 2011-12-19
+ * @since 2015-12-19
  * @package control
  */
 class DspaceFileRequester {
