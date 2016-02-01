@@ -39,6 +39,7 @@ class DspaceOAIRequester {
             return $response;
         } catch (HttpException $exp) {
             echo $exp;
+            return null;
         }
     }
     
