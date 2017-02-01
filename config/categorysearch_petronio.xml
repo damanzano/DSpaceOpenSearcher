@@ -9,13 +9,13 @@
         <script order="0" url="<route-to-external-js-file>" />
         -->
     </scripts>
-    <community identifier="11522/3647">
+    <community identifier="11522/4607">
         <name>Festival de la Música del Pacifico Petronio Álvarez</name>
         <description></description>
         <intro></intro>
         <copyright></copyright>
         <sidebar></sidebar>
-        <collection identifier="11522/3648">
+        <collection identifier="11522/4608">
             <name>Chirimía</name>
             <description></description>
             <intro></intro>
@@ -24,7 +24,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3649">
+        <collection identifier="11522/4609">
             <name>Cocinas, bebidas, artesanías</name>
             <description></description>
             <intro></intro>
@@ -33,7 +33,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3650">
+        <collection identifier="11522/4610">
             <name>Encuentro Académico</name>
             <description></description>
             <intro></intro>
@@ -42,7 +42,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3651">
+        <collection identifier="11522/4611">
             <name>Marimba</name>
             <description></description>
             <intro></intro>
@@ -51,7 +51,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3652">
+        <collection identifier="11522/4612">
             <name>Público, escenarios, comunicaciones</name>
             <description></description>
             <intro></intro>
@@ -60,7 +60,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3653">
+        <collection identifier="11522/4613">
             <name>Versión Libre</name>
             <description></description>
             <intro></intro>
@@ -69,7 +69,7 @@
             <license></license>
             <provenance></provenance>
         </collection>
-        <collection identifier="11522/3654">
+        <collection identifier="11522/4614">
             <name>Violines Caucanos</name>
             <description></description>
             <intro></intro>

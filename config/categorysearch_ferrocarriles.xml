@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imported_structure>
+    <repository>Festival de la Música del Pacifico Petronio Álvarez</repository>
+    <styles>
+        <style order="0" url="https://code.jquery.com/ui/1.8.24/themes/black-tie/jquery-ui.css" />
+    </styles>
+    <scripts>
+        <!--
+        <script order="0" url="<route-to-external-js-file>" />
+        -->
+    </scripts>
+    <community identifier="11522/7712">
+        <name>Ferrocarriles</name>
+        <description></description>
+        <intro></intro>
+        <copyright></copyright>
+        <sidebar></sidebar>
+        <collection identifier="11522/7713">
+            <name>Estaciones</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/7715">
+            <name>Mobiliario</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/7714">
+            <name>Trenes</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+    </community>
+</imported_structure>
