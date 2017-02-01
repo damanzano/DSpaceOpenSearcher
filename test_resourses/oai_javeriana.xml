@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2016-02-01T12:54:26Z</responseDate>
+    <request verb="GetRecord" identifier="oai:vitela.javerianacali.edu.co:11522/3792" metadataPrefix="mets">http://vitela.javerianacali.edu.co/oai/request</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:vitela.javerianacali.edu.co:11522/3792</identifier>
+                <datestamp>2015-12-02T07:05:01Z</datestamp>
+                <setSpec>com_11522_3647</setSpec>
+                <setSpec>com_11522_3611</setSpec>
+                <setSpec>com_11522_1</setSpec>
+                <setSpec>col_11522_3649</setSpec>
+            </header>
+            <metadata>
+                <mets xmlns="http://www.loc.gov/METS/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" PROFILE="DSpace METS SIP Profile 1.0" TYPE="DSpace ITEM" ID="&#xa;&#x9;&#x9;&#x9;&#x9;DSpace_ITEM_11522-3792" OBJID="&#xa;&#x9;&#x9;&#x9;&#x9;hdl:11522/3792">
+                    <metsHdr CREATEDATE="2016-02-01T07:54:26Z">
+                        <agent TYPE="ORGANIZATION" ROLE="CUSTODIAN">
+                            <name>Repositorio Institucional Pontificia Universidad Javeriana Cali</name>
+                        </agent>
+                    </metsHdr>
+                    <dmdSec ID="DMD_11522_3792">
+                        <mdWrap MDTYPE="MODS">
+                            <xmlData xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+                                <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-1.xsd">
+                                    <mods:extension>
+                                        <mods:dateAccessioned encoding="iso8601">2015-12-01T18:35:00Z</mods:dateAccessioned>
+                                    </mods:extension>
+                                    <mods:extension>
+                                        <mods:dateAvailable encoding="iso8601">2015-12-01T18:35:00Z</mods:dateAvailable>
+                                    </mods:extension>
+                                    <mods:identifier type="citation">Cali. Alcaldía. Secretaría de Cultura y Turismo. (2010). Muestra gastronómica Petronio Álvarez 2010.</mods:identifier>
+                                    <mods:identifier type="uri">http://hdl.handle.net/11522/3792</mods:identifier>
+                                    <mods:language>
+                                        <mods:languageTerm authority="rfc3066" />
+                                    </mods:language>
+                                    <mods:accessCondition type="useAndReproduction">El o los autores otorgan licencia de uso parcial de la obra a favor de la Pontificia &#xd;
+                                        Universidad Javeriana Seccional Cali, teniendo en cuenta que en cualquier caso, la finalidad perseguida siempre será facilitar, difundir y promover el aprendizaje, la enseñanza y la investigación. Con la licencia el o los autores autorizan a la Pontificia Universidad Javeriana Seccional Cali: la publicación en formato o soporte material, de acuerdo con las condiciones internas que la Universidad ha establecido para estos efectos. La edición o cualquier otra forma de reproducción, incluyendo la posibilidad de trasladarla al sistema o entorno digital. La inclusión en cualquier otro formato o soporte como multimedia, colecciones, recopilaciones o, en general, servir de base para cualquier otra obra derivada. La comunicación y difusión al público por cualquier procedimiento o medio (impreso o electrónico). La inclusión en bases de datos y en sitios web, sean éstos onerosos o gratuitos, existiendo con ellos previo convenio perfeccionado con la Pontificia Universidad Javeriana Cali para efectos de satisfacer los fines previstos. En estos eventos, tales sitios tendrán las mismas facultades que las aquí concedidas para la referida universidad, con las mismas limitaciones y condiciones. El o los autores continúan conservando los correspondientes derechos sin modificación o restricción alguna, puesto que de acuerdo con la legislación colombiana aplicable, el acuerdo jurídico con la Pontificia Universidad Javeriana Cali, en ningún caso conlleva la enajenación del derecho de autor y de sus conexos.&#xd;
+                                        EL AUTOR, expresa que el artículo, folleto o libro objeto de la presente autorización es original y la elaboró sin quebrantar ni suplantar los derechos de autor de terceros, y de tal forma, el recurso electrónico aquí presentado es de su exclusiva autoría y tiene la titularidad sobre éste. PARÁGRAFO: en caso de queja o acción por parte de un tercero referente a los derechos de autor sobre el recurso electrónico en cuestión, EL AUTOR, asumirá la responsabilidad total, y saldrá en defensa de los derechos aquí autorizados; para todos los efectos, la Pontificia Universidad Javeriana Cali actúa como un tercero de buena fe.</mods:accessCondition>
+                                    <mods:subject>
+                                        <mods:topic>Gastronomía</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Pacífico colombiano</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Petronio Álvarez</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Festival de música</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Folclor</mods:topic>
+                                    </mods:subject>
+                                    <mods:subject>
+                                        <mods:topic>Fiesta</mods:topic>
+                                    </mods:subject>
+                                    <mods:titleInfo>
+                                        <mods:title>Muestra gastronómica Petronio Álvarez 2010</mods:title>
+                                    </mods:titleInfo>
+                                    <mods:genre>info:eu-repo/semantics/other</mods:genre>
+                                </mods:mods>
+                            </xmlData>
+                        </mdWrap>
+                    </dmdSec>
+                    <amdSec ID="TMD_11522_3792">
+                        <rightsMD ID="RIG_11522_3792">
+                            <mdWrap OTHERMDTYPE="DSpaceDepositLicense" MDTYPE="OTHER" MIMETYPE="text/plain">
+                                <binData>RWwgbyBsb3MgYXV0b3JlcyBvdG9yZ2FuIGxpY2VuY2lhIGRlIHVzbyBwYXJjaWFsIGRlIGxhIG9icmEgYSBmYXZvciBkZSBsYSBQb250aWZpY2lhIFVuaXZlcnNpZGFkIEphdmVyaWFuYSBTZWNjaW9uYWwgQ2FsaSwgdGVuaWVuZG8gZW4gY3VlbnRhIHF1ZSBlbiBjdWFscXVpZXIgY2FzbywgbGEgZmluYWxpZGFkIHBlcnNlZ3VpZGEgc2llbXByZSBzZXLDoSBmYWNpbGl0YXIsIGRpZnVuZGlyIHkgcHJvbW92ZXIgZWwgYXByZW5kaXphamUsIGxhIGVuc2XDsWFuemEgeSBsYSBpbnZlc3RpZ2FjacOzbi4gQ29uIGxhIGxpY2VuY2lhIGVsIG8gbG9zIGF1dG9yZXMgYXV0b3JpemFuIGEgbGEgUG9udGlmaWNpYSBVbml2ZXJzaWRhZCBKYXZlcmlhbmEgU2VjY2lvbmFsIENhbGk6IExhIHB1YmxpY2FjacOzbiBlbiBmb3JtYXRvIG8gc29wb3J0ZSBtYXRlcmlhbCwgZGUgYWN1ZXJkbyBjb24gbGFzIGNvbmRpY2lvbmVzIGludGVybmFzIHF1ZSBsYSBVbml2ZXJzaWRhZCBoYSBlc3RhYmxlY2lkbyBwYXJhIGVzdG9zIGVmZWN0b3MuIExhIGVkaWNpw7NuIG8gY3VhbHF1aWVyIG90cmEgZm9ybWEgZGUgcmVwcm9kdWNjacOzbiwgaW5jbHV5ZW5kbyBsYSBwb3NpYmlsaWRhZCBkZSB0cmFzbGFkYXJsYSBhbCBzaXN0ZW1hIG8gZW50b3JubyBkaWdpdGFsLiBMYSBpbmNsdXNpw7NuIGVuIGN1YWxxdWllciBvdHJvIGZvcm1hdG8gbyBzb3BvcnRlIGNvbW8gbXVsdGltZWRpYSwgY29sZWNjaW9uZXMsIHJlY29waWxhY2lvbmVzIG8sIGVuIGdlbmVyYWwsIHNlcnZpciBkZSBiYXNlIHBhcmEgY3VhbHF1aWVyIG90cmEgb2JyYSBkZXJpdmFkYS4gTGEgY29tdW5pY2FjacOzbiB5IGRpZnVzacOzbiBhbCBww7pibGljbyBwb3IgY3VhbHF1aWVyIHByb2NlZGltaWVudG8gbyBtZWRpbyAoaW1wcmVzbyBvIGVsZWN0csOzbmljbykuIExhIGluY2x1c2nDs24gZW4gYmFzZXMgZGUgZGF0b3MgeSBlbiBzaXRpb3Mgd2ViLCBzZWFuIMOpc3RvcyBvbmVyb3NvcyBvIGdyYXR1aXRvcywgZXhpc3RpZW5kbyBjb24gZWxsb3MgcHJldmlvIGNvbnZlbmlvIHBlcmZlY2Npb25hZG8gY29uIGxhIFBvbnRpZmljaWEgVW5pdmVyc2lkYWQgSmF2ZXJpYW5hIENhbGkgcGFyYSBlZmVjdG9zIGRlIHNhdGlzZmFjZXIgbG9zIGZpbmVzIHByZXZpc3Rvcy4gRW4gZXN0b3MgZXZlbnRvcywgdGFsZXMgc2l0aW9zIHRlbmRyw6FuIGxhcyBtaXNtYXMgZmFjdWx0YWRlcyBxdWUgbGFzIGFxdcOtIGNvbmNlZGlkYXMgcGFyYSBsYSByZWZlcmlkYSB1bml2ZXJzaWRhZCwgY29uIGxhcyBtaXNtYXMgbGltaXRhY2lvbmVzIHkgY29uZGljaW9uZXMuIEVsIG8gbG9zIGF1dG9yZXMgY29udGluw7phbiBjb25zZXJ2YW5kbyBsb3MgY29ycmVzcG9uZGllbnRlcyBkZXJlY2hvcyBzaW4gbW9kaWZpY2FjacOzbiBvIHJlc3RyaWNjacOzbiBhbGd1bmEsIHB1ZXN0byBxdWUgZGUgYWN1ZXJkbyBjb24gbGEgbGVnaXNsYWNpw7NuIGNvbG9tYmlhbmEgYXBsaWNhYmxlLCBlbCBhY3VlcmRvIGp1csOtZGljbyBjb24gbGEgUG9udGlmaWNpYSBVbml2ZXJzaWRhZCBKYXZlcmlhbmEgQ2FsaSwgZW4gbmluZ8O6biBjYXNvIGNvbmxsZXZhIGxhIGVuYWplbmFjacOzbiBkZWwgZGVyZWNobyBkZSBhdXRvciB5IGRlIHN1cyBjb25leG9zLgpFTCBBVVRPUiwgZXhwcmVzYSBxdWUgZWwgYXJ0w61jdWxvLCBmb2xsZXRvIG8gbGlicm8gb2JqZXRvIGRlIGxhIHByZXNlbnRlIGF1dG9yaXphY2nDs24gZXMgb3JpZ2luYWwgeSBsYSBlbGFib3LDsyBzaW4gcXVlYnJhbnRhciBuaSBzdXBsYW50YXIgbG9zIGRlcmVjaG9zIGRlIGF1dG9yIGRlIHRlcmNlcm9zLCB5IGRlIHRhbCBmb3JtYSwgZWwgcmVjdXJzbyBlbGVjdHLDs25pY28gYXF1w60gcHJlc2VudGFkbyBlcyBkZSBzdSBleGNsdXNpdmEgYXV0b3LDrWEgeSB0aWVuZSBsYSB0aXR1bGFyaWRhZCBzb2JyZSDDqXN0ZS4gUEFSw4FHUkFGTzogZW4gY2FzbyBkZSBxdWVqYSBvIGFjY2nDs24gcG9yIHBhcnRlIGRlIHVuIHRlcmNlcm8gcmVmZXJlbnRlIGEgbG9zIGRlcmVjaG9zIGRlIGF1dG9yIHNvYnJlIGVsIGVsIHJlY3Vyc28gZWxlY3Ryw7NuaWNvIGVuIGN1ZXN0acOzbiwgRUwgQVVUT1IsIGFzdW1pcsOhIGxhIHJlc3BvbnNhYmlsaWRhZCB0b3RhbCwgeSBzYWxkcsOhIGVuIGRlZmVuc2EgZGUgbG9zIGRlcmVjaG9zIGFxdcOtIGF1dG9yaXphZG9zOyBwYXJhIHRvZG9zIGxvcyBlZmVjdG9zLCBsYSBQb250aWZpY2lhIFVuaXZlcnNpZGFkIEphdmVyaWFuYSBDYWxpIGFjdMO6YSBjb21vIHVuIHRlcmNlcm8gZGUgYnVlbmEgZmUuCg==</binData>
+                            </mdWrap>
+                        </rightsMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_1">
+                        <techMD ID="TECH_O_11522_3792_1">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/1/Puestos-comida-1.jpg</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>434bc0a5c841dbde3af4a49596076c6e</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>1374453</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-1.jpg</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_2">
+                        <techMD ID="TECH_O_11522_3792_2">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/2/Puestos-comida-2.JPG</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>3ba312f6fefa5de16d9149bdc4474488</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>1540963</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-2.JPG</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_3">
+                        <techMD ID="TECH_O_11522_3792_3">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/3/Puestos-comida-3.JPG</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>d933c6b270a1402caff166546f8140c2</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>1653592</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-3.JPG</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_4">
+                        <techMD ID="TECH_O_11522_3792_4">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/4/Puestos-comida-4.JPG</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>1c30eda1aa9d01af039269503c560758</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>5308102</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-4.JPG</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_5">
+                        <techMD ID="TECH_O_11522_3792_5">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/5/Puestos-comida-5.jpg</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>1badc95127018592785250fbd7f0c45e</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>3635847</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-5.jpg</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <amdSec ID="FO_11522_3792_6">
+                        <techMD ID="TECH_O_11522_3792_6">
+                            <mdWrap MDTYPE="PREMIS">
+                                <xmlData xmlns:premis="http://www.loc.gov/standards/premis" xsi:schemaLocation="http://www.loc.gov/standards/premis http://www.loc.gov/standards/premis/PREMIS-v1-0.xsd">
+                                    <premis:premis>
+                                        <premis:object>
+                                            <premis:objectIdentifier>
+                                                <premis:objectIdentifierType>URL</premis:objectIdentifierType>
+                                                <premis:objectIdentifierValue>http://vitela.javerianacali.edu.co//bitstream/11522/3792/6/Puestos-comida-6.jpg</premis:objectIdentifierValue>
+                                            </premis:objectIdentifier>
+                                            <premis:objectCategory>File</premis:objectCategory>
+                                            <premis:objectCharacteristics>
+                                                <premis:fixity>
+                                                    <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                                                    <premis:messageDigest>016a786e4353668f9791a0ebb698c72a</premis:messageDigest>
+                                                </premis:fixity>
+                                                <premis:size>2972218</premis:size>
+                                                <premis:format>
+                                                    <premis:formatDesignation>
+                                                        <premis:formatName>image/jpeg</premis:formatName>
+                                                    </premis:formatDesignation>
+                                                </premis:format>
+                                            </premis:objectCharacteristics>
+                                            <premis:originalName>Puestos-comida-6.jpg</premis:originalName>
+                                        </premis:object>
+                                    </premis:premis>
+                                </xmlData>
+                            </mdWrap>
+                        </techMD>
+                    </amdSec>
+                    <fileSec>
+                        <fileGrp USE="ORIGINAL">
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_1" MIMETYPE="image/jpeg" SEQ="1" SIZE="1374453" CHECKSUM="434bc0a5c841dbde3af4a49596076c6e" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_1" GROUPID="GROUP_BITSTREAM_11522_3792_1">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/1/Puestos-comida-1.jpg" />
+                            </file>
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_2" MIMETYPE="image/jpeg" SEQ="2" SIZE="1540963" CHECKSUM="3ba312f6fefa5de16d9149bdc4474488" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_2" GROUPID="GROUP_BITSTREAM_11522_3792_2">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/2/Puestos-comida-2.JPG" />
+                            </file>
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_3" MIMETYPE="image/jpeg" SEQ="3" SIZE="1653592" CHECKSUM="d933c6b270a1402caff166546f8140c2" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_3" GROUPID="GROUP_BITSTREAM_11522_3792_3">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/3/Puestos-comida-3.JPG" />
+                            </file>
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_4" MIMETYPE="image/jpeg" SEQ="4" SIZE="5308102" CHECKSUM="1c30eda1aa9d01af039269503c560758" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_4" GROUPID="GROUP_BITSTREAM_11522_3792_4">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/4/Puestos-comida-4.JPG" />
+                            </file>
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_5" MIMETYPE="image/jpeg" SEQ="5" SIZE="3635847" CHECKSUM="1badc95127018592785250fbd7f0c45e" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_5" GROUPID="GROUP_BITSTREAM_11522_3792_5">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/5/Puestos-comida-5.jpg" />
+                            </file>
+                            <file ID="BITSTREAM_ORIGINAL_11522_3792_6" MIMETYPE="image/jpeg" SEQ="6" SIZE="2972218" CHECKSUM="016a786e4353668f9791a0ebb698c72a" CHECKSUMTYPE="MD5" ADMID="FO_11522_3792_6" GROUPID="GROUP_BITSTREAM_11522_3792_6">
+                                <FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="http://vitela.javerianacali.edu.co//bitstream/11522/3792/6/Puestos-comida-6.jpg" />
+                            </file>
+                        </fileGrp>
+                    </fileSec>
+                    <structMap TYPE="LOGICAL" LABEL="DSpace Object">
+                        <div TYPE="DSpace Object Contents" ADMID="DMD_11522_3792">
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_1" />
+                            </div>
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_2" />
+                            </div>
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_3" />
+                            </div>
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_4" />
+                            </div>
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_5" />
+                            </div>
+                            <div TYPE="DSpace BITSTREAM">
+                                <fptr FILEID="BITSTREAM_ORIGINAL_11522_3792_6" />
+                            </div>
+                        </div>
+                    </structMap>
+                </mets>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>

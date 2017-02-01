@@ -3,7 +3,7 @@
     Created on : 12-dic-2011, 10:31:39
     Author     : David Andrés Manzano Herrera
     Description:
-        Sstylesheet for the Dspace open search requester application.
+        Stylesheet for the Dspace open search requester application.
 */
 
 root { 
@@ -30,8 +30,12 @@ input#query{font-size: 1.1em;}
 .ui-widget-content a.app_navlink_active{color: #ff0000; font-weight: bolder;}
 .nav-wrapper{width: 100%;}
 .navigation{width: 100%;}
-#record-metadata{width: 100%;}
-#record-metadata tr th{text-align: right; font-weight: bolder; vertical-align: top;}
-#record-metadata tr td{padding-left: 5px;  text-align: justify;}
+#record-preview{margin: 10px}
+#record-metadata {width: 100%;}
+#record-metadata tr th {text-align: right; font-weight: bolder; vertical-align: top;}
+#record-metadata tr td {padding-left: 5px;  text-align: justify;}
+#record-original-files {margin: 10px auto;}
+#record-original-files tr th{text-align: left; font-weight: bolder; vertical-align: top;}
+#record-original-files tr td{padding-left: 5px;  text-align: justify;}
 .back{position: relative; left: 0; float: left; margin: 0.7em;}
 #footer{width: 100%; display: block; overflow: hidden; text-align: center;}

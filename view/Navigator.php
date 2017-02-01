@@ -60,8 +60,11 @@ class Navigator {
         }
         $html.= '<td width="10%" align="left">';
         $html.= '<table><tr>';
-        $html.= '<td><a ' . $style_begining . '><img src="images/start' . $image_type . '.png" alt="Inicio" width="20" height="20"></a></td>';
-        $html.= '<td><a ' . $style_before . '><img src="images/previous' . $image_type . '.png" alt="Anterior" title="Anterior" width="20" height="20"></a></td>';
+        //$html.= '<td><a ' . $style_begining . '><img src="images/start' . $image_type . '.png" alt="Inicio" width="20" height="20"></a></td>';
+        //$html.= '<td><a ' . $style_before . '><img src="images/previous' . $image_type . '.png" alt="Anterior" title="Anterior" width="20" height="20"></a></td>';
+        
+        $html.= '<td><a ' . $style_begining . '><span>Inicio</span></a></td>';
+        $html.= '<td><a ' . $style_before . '><span>Anterior</span></a></td>';
         $html.= '</tr></table>';
         $html.= '</td>';
 
@@ -100,8 +103,11 @@ class Navigator {
 
         $html.= '<td width="10%" align="right">';
         $html.= '<table><tr>';
-        $html.= '<td><a ' . $style_siguiente . '><img src="images/next' . $tipo_imagen_fin . '.png" alt="Siguiente" title="Siguiente" width="20" height="20"></a></td>';
-        $html.='<td><a ' . $style_fin . '><img src="images/end' . $tipo_imagen_fin . '.png" alt="Fin" title="Fin" width="20" height="20"></a></td>';
+        //$html.= '<td><a ' . $style_siguiente . '><img src="images/next' . $tipo_imagen_fin . '.png" alt="Siguiente" title="Siguiente" width="20" height="20"></a></td>';
+        //$html.='<td><a ' . $style_fin . '><img src="images/end' . $tipo_imagen_fin . '.png" alt="Fin" title="Fin" width="20" height="20"></a></td>';
+        
+        $html.= '<td><a ' . $style_siguiente . '><span>Siguiente</span></a></td>';
+        $html.='<td><a ' . $style_fin . '><span>Fin</span></a></td>';
         $html.= '</tr></table>';
         $html.= '</td>';
 

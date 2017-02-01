@@ -7,10 +7,7 @@
 /** Avoid conflicts with another javascript libraries */
 jQuery.noConflict();
 
-/** scope of the search */
-var scope = "11522/3611";
-var search_scope = "11522/3611";
-var search_scope_name = "Archivo Patrimonio Cultural Colombiano";
+
 /** Executing the onready operations*/
 jQuery(document).ready(function () {
     jQuery("#apprecord").css("display", "none");

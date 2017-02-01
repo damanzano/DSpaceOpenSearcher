@@ -1,80 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <imported_structure>
-    <community identifier="11522/3611">
-        <name>Patrimonio Cultural Colombiano</name>
+    <repository>Festival de la Música del Pacifico Petronio Álvarez</repository>
+    <styles>
+        <style order="0" url="https://code.jquery.com/ui/1.8.24/themes/black-tie/jquery-ui.css" />
+    </styles>
+    <scripts>
+        <!--
+        <script order="0" url="<route-to-external-js-file>" />
+        -->
+    </scripts>
+    <community identifier="11522/3647">
+        <name>Festival de la Música del Pacifico Petronio Álvarez</name>
         <description></description>
         <intro></intro>
         <copyright></copyright>
         <sidebar></sidebar>
-        <community identifier="11522/3647">
-            <name>Festival de la Música del Pacifico Petronio Álvarez</name>
+        <collection identifier="11522/3648">
+            <name>Chirimía</name>
             <description></description>
             <intro></intro>
             <copyright></copyright>
             <sidebar></sidebar>
-            <collection identifier="11522/3648">
-                <name>Chirimía</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3649">
-                <name>Cocinas, bebidas, artesanías</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3650">
-                <name>Encuentro Académico</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3651">
-                <name>Marimba</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3652">
-                <name>Público, escenarios, comunicaciones</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3653">
-                <name>Versión Libre</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-            <collection identifier="11522/3654">
-                <name>Violines Caucanos</name>
-                <description></description>
-                <intro></intro>
-                <copyright></copyright>
-                <sidebar></sidebar>
-                <license></license>
-                <provenance></provenance>
-            </collection>
-        </community>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3649">
+            <name>Cocinas, bebidas, artesanías</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3650">
+            <name>Encuentro Académico</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3651">
+            <name>Marimba</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3652">
+            <name>Público, escenarios, comunicaciones</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3653">
+            <name>Versión Libre</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
+        <collection identifier="11522/3654">
+            <name>Violines Caucanos</name>
+            <description></description>
+            <intro></intro>
+            <copyright></copyright>
+            <sidebar></sidebar>
+            <license></license>
+            <provenance></provenance>
+        </collection>
     </community>
 </imported_structure>

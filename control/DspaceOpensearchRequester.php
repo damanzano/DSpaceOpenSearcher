@@ -65,7 +65,7 @@ class DspaceOpensearchRequester {
         $this->sort_by = $sort_by;
         $this->order = $order;
         $this->query = $query;
-		$this->location=$scope;
+	$this->location=$scope;
     }
 
     /**
