@@ -35,3 +35,4 @@ META-INF/
 /dspace/modules/jspui/src/main/webapp/static/css/bootstrap/theme.map
 /dspace/modules/jspui/src/main/webapp/static/css/bootstrap/icesi-theme.map
 /nbproject/configs/local.properties
+/nbproject/configs/aws.properties
